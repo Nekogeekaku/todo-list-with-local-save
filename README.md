@@ -1,9 +1,9 @@
 ## A simple React TODO List that save in you localstorage
 Hope you enjoy this basic app. Quite usefull.
 
-Blow is the standard React readme to help you install it.
+Below is the standard React readme to help you install it.
 
-
+## Standard react readme below
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
